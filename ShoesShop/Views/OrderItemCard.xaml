@@ -1,0 +1,35 @@
+﻿<UserControl x:Class="ShoesShop.Views.OrderItemCard"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ShoesShop.Views" 
+             mc:Ignorable="d" Background="White" Height="120" Width="800">
+    
+    <Border BorderBrush="Black" BorderThickness="1">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid >
+            <StackPanel Margin="10">
+                <StackPanel.Resources>
+                    <Style TargetType="TextBlock">
+                        <Setter Property="FontSize" Value="16"/>
+                        <Setter Property="FontFamily" Value="Times New Roman"/>
+
+                    </Style>
+                </StackPanel.Resources>
+                <TextBlock Text="{Binding OrderId, StringFormat={}Артикул заказа: {0}}" FontWeight="DemiBold" />
+                <TextBlock Text="{Binding OrderStatus, StringFormat={}Статус: {0}}"/>
+                <TextBlock Text="{Binding OrderPickUpAddress, StringFormat={}Адрес пункта выдачи: {0}}"/>
+                <TextBlock Text="{Binding OrderDate, StringFormat='Дата заказа: {0:dd.MM.yyyy}'}"/>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Column="1">
+            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="18" Text="{Binding OrderDeliveryDate, StringFormat='Дата доставки: {0:dd.MM.yyyy}'}"/>
+        </Grid>
+    </Grid>
+    </Border>
+</UserControl>

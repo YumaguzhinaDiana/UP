@@ -1,0 +1,66 @@
+﻿<Window x:Class="ShoesShop.Views.CatalogWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ShoesShop.Views"
+        mc:Ignorable="d"
+        Title="Каталог" Height="450" Width="800" Loaded="Window_Loaded" Icon="/Resources/Icon.ico" WindowState="Maximized">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid Background="#7FFF00">
+            <Image x:Name="logo_img" Width="70" Height="70" Source="/Resources/Icon.png" HorizontalAlignment="Left"/>
+            <StackPanel x:Name="admin_panel" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <StackPanel.Resources>
+                    <Style TargetType="Button">
+                        <Setter Property="Margin" Value="10,0"/>
+                        <Setter Property="Background" Value="#00FA9A"/>
+                        <Setter Property="FontSize" Value="17"/>
+                    </Style>
+                </StackPanel.Resources>
+                <Button x:Name="orders_btn" Content="Заказы" Click="orders_btn_Click" />
+                <Button x:Name="addTovar_btn" Content="Добавить товар" Click="addTovar_btn_Click"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Center">
+               
+                <TextBlock x:Name="name_tblc" Text="Фамилия Имя" FontSize="16" />
+                <Button x:Name="exit_btn" Content="Выход" HorizontalAlignment="Right" Margin="5,0" Click="exit_btn_Click"/>
+
+            </StackPanel>
+           </Grid>
+        <Grid Grid.Row="1" x:Name="searching_grid">
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Поиск:"/>
+                <TextBox x:Name="searchField_tbx" Width="150" TextChanged="searchField_tbx_TextChanged"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Label Content="Фильтрация по:"/>
+                <ComboBox x:Name="filtr_cmbx" Width="150" SelectionChanged="filtr_cmbx_SelectionChanged"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                <Label Content="Сортировка по:"/>
+                <ComboBox x:Name="sort_cmbx" Width="150" SelectionChanged="filtr_cmbx_SelectionChanged"/>
+            </StackPanel>
+
+        </Grid>
+        <Grid Grid.Row="2">
+            <ListView x:Name="tovars_lstv" HorizontalContentAlignment="Stretch">
+                <ListView.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <StackPanel/>
+                    </ItemsPanelTemplate>
+                </ListView.ItemsPanel>
+                <ListView.ContextMenu>
+                    <ContextMenu>
+                        <MenuItem Header="Редактировать" Click="MenuItem_Click"/>
+                        
+                    </ContextMenu>
+                </ListView.ContextMenu>
+            </ListView>
+        </Grid>
+    </Grid>
+</Window>

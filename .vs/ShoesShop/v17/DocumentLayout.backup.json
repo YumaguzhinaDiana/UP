@@ -1,0 +1,350 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|c:\\users\\noutb\\source\\repos\\shoesshop\\shoesshop\\views\\addeditorderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|solutionrelative:shoesshop\\views\\addeditorderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|c:\\users\\noutb\\source\\repos\\shoesshop\\shoesshop\\views\\orderitemcard.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|solutionrelative:shoesshop\\views\\orderitemcard.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|c:\\users\\noutb\\source\\repos\\shoesshop\\shoesshop\\views\\orderslist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|solutionrelative:shoesshop\\views\\orderslist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|c:\\users\\noutb\\source\\repos\\shoesshop\\shoesshop\\views\\addedittovarwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|solutionrelative:shoesshop\\views\\addedittovarwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|c:\\users\\noutb\\source\\repos\\shoesshop\\shoesshop\\views\\catalogwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|solutionrelative:shoesshop\\views\\catalogwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|c:\\users\\noutb\\source\\repos\\shoesshop\\shoesshop\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|solutionrelative:shoesshop\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|c:\\users\\noutb\\source\\repos\\shoesshop\\shoesshop\\views\\tovarcontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|solutionrelative:shoesshop\\views\\tovarcontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|c:\\users\\noutb\\source\\repos\\shoesshop\\shoesshop\\models\\tovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|solutionrelative:shoesshop\\models\\tovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|c:\\users\\noutb\\source\\repos\\shoesshop\\shoesshop\\views\\tovarcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|solutionrelative:shoesshop\\views\\tovarcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|c:\\users\\noutb\\source\\repos\\shoesshop\\shoesshop\\views\\catalogwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|solutionrelative:shoesshop\\views\\catalogwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|c:\\users\\noutb\\source\\repos\\shoesshop\\shoesshop\\views\\orderitemcard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|solutionrelative:shoesshop\\views\\orderitemcard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|c:\\users\\noutb\\source\\repos\\shoesshop\\shoesshop\\views\\orderslist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|solutionrelative:shoesshop\\views\\orderslist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|c:\\users\\noutb\\source\\repos\\shoesshop\\shoesshop\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|solutionrelative:shoesshop\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|c:\\users\\noutb\\source\\repos\\shoesshop\\shoesshop\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|solutionrelative:shoesshop\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|c:\\users\\noutb\\source\\repos\\shoesshop\\shoesshop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|solutionrelative:shoesshop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|c:\\users\\noutb\\source\\repos\\shoesshop\\shoesshop\\views\\addedittovarwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|solutionrelative:shoesshop\\views\\addedittovarwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|c:\\users\\noutb\\source\\repos\\shoesshop\\shoesshop\\models\\dbbootsshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|solutionrelative:shoesshop\\models\\dbbootsshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|c:\\users\\noutb\\source\\repos\\shoesshop\\shoesshop\\models\\clientitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|solutionrelative:shoesshop\\models\\clientitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|c:\\users\\noutb\\source\\repos\\shoesshop\\shoesshop\\models\\pickuppoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|solutionrelative:shoesshop\\models\\pickuppoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|c:\\users\\noutb\\source\\repos\\shoesshop\\shoesshop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|solutionrelative:shoesshop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|c:\\users\\noutb\\source\\repos\\shoesshop\\shoesshop\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F7F7EED6-7B27-4E9A-870A-2F4540FEF99F}|ShoesShop\\ShoesShop.csproj|solutionrelative:shoesshop\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddEditOrderWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Views\\AddEditOrderWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ShoesShop\\Views\\AddEditOrderWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Views\\AddEditOrderWindow.xaml.cs",
+              "RelativeToolTip": "ShoesShop\\Views\\AddEditOrderWindow.xaml.cs",
+              "ViewState": "AgIAANUAAAAAAAAAAAAIwOkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T18:55:51.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ShoesShop\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\AssemblyInfo.cs",
+              "RelativeToolTip": "ShoesShop\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T06:50:32.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClientItem.cs",
+              "DocumentMoniker": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Models\\ClientItem.cs",
+              "RelativeDocumentMoniker": "ShoesShop\\Models\\ClientItem.cs",
+              "ToolTip": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Models\\ClientItem.cs",
+              "RelativeToolTip": "ShoesShop\\Models\\ClientItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T14:30:20.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PickUpPoint.cs",
+              "DocumentMoniker": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Models\\PickUpPoint.cs",
+              "RelativeDocumentMoniker": "ShoesShop\\Models\\PickUpPoint.cs",
+              "ToolTip": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Models\\PickUpPoint.cs",
+              "RelativeToolTip": "ShoesShop\\Models\\PickUpPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T12:42:24.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderItemCard.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Views\\OrderItemCard.xaml.cs",
+              "RelativeDocumentMoniker": "ShoesShop\\Views\\OrderItemCard.xaml.cs",
+              "ToolTip": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Views\\OrderItemCard.xaml.cs",
+              "RelativeToolTip": "ShoesShop\\Views\\OrderItemCard.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T12:35:46.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ShoesShop\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Models\\Order.cs",
+              "RelativeToolTip": "ShoesShop\\Models\\Order.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T12:23:48.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersList.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Views\\OrdersList.xaml.cs",
+              "RelativeDocumentMoniker": "ShoesShop\\Views\\OrdersList.xaml.cs",
+              "ToolTip": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Views\\OrdersList.xaml.cs",
+              "RelativeToolTip": "ShoesShop\\Views\\OrdersList.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T12:14:28.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrdersList.xaml",
+              "DocumentMoniker": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Views\\OrdersList.xaml",
+              "RelativeDocumentMoniker": "ShoesShop\\Views\\OrdersList.xaml",
+              "ToolTip": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Views\\OrdersList.xaml",
+              "RelativeToolTip": "ShoesShop\\Views\\OrdersList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-12T12:08:39.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderItemCard.xaml",
+              "DocumentMoniker": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Views\\OrderItemCard.xaml",
+              "RelativeDocumentMoniker": "ShoesShop\\Views\\OrderItemCard.xaml",
+              "ToolTip": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Views\\OrderItemCard.xaml",
+              "RelativeToolTip": "ShoesShop\\Views\\OrderItemCard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-12T12:08:01.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddEditTovarWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Views\\AddEditTovarWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ShoesShop\\Views\\AddEditTovarWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Views\\AddEditTovarWindow.xaml.cs",
+              "RelativeToolTip": "ShoesShop\\Views\\AddEditTovarWindow.xaml.cs",
+              "ViewState": "AgIAAF0BAAAAAAAAAAAwwJMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T06:48:10.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddEditTovarWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Views\\AddEditTovarWindow.xaml",
+              "RelativeDocumentMoniker": "ShoesShop\\Views\\AddEditTovarWindow.xaml",
+              "ToolTip": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Views\\AddEditTovarWindow.xaml",
+              "RelativeToolTip": "ShoesShop\\Views\\AddEditTovarWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-28T06:07:56.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ShoesShop\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\App.xaml.cs",
+              "RelativeToolTip": "ShoesShop\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T18:48:46.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CatalogWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Views\\CatalogWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ShoesShop\\Views\\CatalogWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Views\\CatalogWindow.xaml.cs",
+              "RelativeToolTip": "ShoesShop\\Views\\CatalogWindow.xaml.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAswJ0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T18:37:07.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TovarControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Views\\TovarControl.xaml.cs",
+              "RelativeDocumentMoniker": "ShoesShop\\Views\\TovarControl.xaml.cs",
+              "ToolTip": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Views\\TovarControl.xaml.cs",
+              "RelativeToolTip": "ShoesShop\\Views\\TovarControl.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwCcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T18:22:50.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tovar.cs",
+              "DocumentMoniker": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Models\\Tovar.cs",
+              "RelativeDocumentMoniker": "ShoesShop\\Models\\Tovar.cs",
+              "ToolTip": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Models\\Tovar.cs",
+              "RelativeToolTip": "ShoesShop\\Models\\Tovar.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T09:04:54.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TovarControl.xaml",
+              "DocumentMoniker": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Views\\TovarControl.xaml",
+              "RelativeDocumentMoniker": "ShoesShop\\Views\\TovarControl.xaml",
+              "ToolTip": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Views\\TovarControl.xaml",
+              "RelativeToolTip": "ShoesShop\\Views\\TovarControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-22T08:52:22.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CatalogWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Views\\CatalogWindow.xaml",
+              "RelativeDocumentMoniker": "ShoesShop\\Views\\CatalogWindow.xaml",
+              "ToolTip": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Views\\CatalogWindow.xaml",
+              "RelativeToolTip": "ShoesShop\\Views\\CatalogWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-22T08:34:53.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DbBootsShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Models\\DbBootsShopContext.cs",
+              "RelativeDocumentMoniker": "ShoesShop\\Models\\DbBootsShopContext.cs",
+              "ToolTip": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Models\\DbBootsShopContext.cs",
+              "RelativeToolTip": "ShoesShop\\Models\\DbBootsShopContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T08:33:40.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\App.xaml",
+              "RelativeDocumentMoniker": "ShoesShop\\App.xaml",
+              "ToolTip": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\App.xaml",
+              "RelativeToolTip": "ShoesShop\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-22T08:19:25.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ShoesShop\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "ShoesShop\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-22T08:19:18.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ShoesShop\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\noutb\\source\\repos\\ShoesShop\\ShoesShop\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ShoesShop\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T07:59:31.678Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

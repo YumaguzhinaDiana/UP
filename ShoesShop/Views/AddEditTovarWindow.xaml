@@ -1,0 +1,64 @@
+﻿<Window x:Class="ShoesShop.Views.AddEditTovarWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ShoesShop.Views"
+        mc:Ignorable="d"
+        Title="Добавление/редактирование товара" Height="auto" Width="667" Loaded="Window_Loaded" Icon="/Resources/Icon.ico">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition/>
+            
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Background="#7FFF00">
+            <Button x:Name="back_btn" Content="Назад" HorizontalAlignment="Left" Background="#00FA9A" Click="back_btn_Click"/>
+            <TextBlock x:Name="title_tblk" Text="Добавление" FontSize="16" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Margin="10,3" >
+                <StackPanel x:Name="articul_panel" Visibility="Collapsed">
+                    <Label Content="Артикул"/>
+                    <TextBlock x:Name="articul_tbx" Text="AS12SA"/>
+                </StackPanel>
+                
+                <Label Content="Название"/>
+                <ComboBox x:Name="typeTovar_cbx"/>
+                <Label Content="Единица измерения"/>
+                <TextBox x:Name="unitTovar_tbx" Text="шт." IsReadOnly="True"/>
+                <Label Content="Стоимость"/>
+                <TextBox x:Name="priceTovar_tbx"/>
+                <Label Content="Поставщик"/>
+                <ComboBox x:Name="supplyerTovar_cbx"/>
+                <Label Content="Производитель"/>
+                <ComboBox x:Name="manufacturTovar_cbx"/>
+                <Label Content="Категория"/>
+                <ComboBox x:Name="categoryTovar_cbx"/>
+                <Label Content="Скидка"/>
+                <TextBox x:Name="discountTovar_tbx"/>
+                <Label Content="Количество на складе"/>
+                <TextBox x:Name="amountTovar_tbx"/>
+               
+                <Grid HorizontalAlignment="Center" Margin="0,10">
+                    <Button x:Name="add_btn" Content="Добавить" Background="#00FA9A" Click="add_btn_Click"/>
+                    <StackPanel Orientation="Horizontal" Visibility="Collapsed" x:Name="edit_panel">
+                        <Button x:Name="edit_btn" Content="Сохранить" Click="edit_btn_Click"/>
+                        <Button x:Name="delete_btn" Content="Удалить" Margin="5,0" Click="delete_btn_Click"/>
+                    </StackPanel>
+                </Grid>
+                
+            </StackPanel>
+            <StackPanel Grid.Column="1">
+                <Image x:Name="preview_image" Width="300" Height="200" Source="{Binding TovarImageString}"/>
+                <Button x:Name="loadImage_btn" Content="Загрузить изображение" HorizontalAlignment="Center" Background="#00FA9A" Click="loadImage_btn_Click"/>
+                <Label Content="Описание"/>
+                <RichTextBox x:Name="descriptionTovar_tbx"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

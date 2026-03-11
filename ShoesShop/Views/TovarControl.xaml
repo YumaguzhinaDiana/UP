@@ -1,0 +1,36 @@
+﻿<UserControl x:Class="ShoesShop.Views.TovarControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ShoesShop.Views"
+             mc:Ignorable="d" Background="White" Height="132" Width="799">
+    <Border BorderBrush="Black" BorderThickness="1">
+    <Grid Background="{Binding CurrentDiscountColor}" >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Image x:Name="img" Source="{Binding TovarImageString}" />
+        <StackPanel Grid.Column="1">
+            <TextBlock Text="{Binding TovarPublicName}"></TextBlock>
+            <TextBlock Text="{Binding TovarDescription}" TextWrapping="Wrap"/>
+            <TextBlock Text="{Binding TovarManufacturNavigation.ManufacturName, StringFormat={}Производитель: {0}}" />
+            <TextBlock Text="{Binding TovarSupplyerNavigation.SupplyerName, StringFormat={}Поставщик: {0}}"/>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Стоимость: "/>
+                <TextBlock Text="{Binding TovarPrice, StringFormat={} {0} руб.}" x:Name="price_tblc"/>
+                <TextBlock Text="" x:Name="priceWithDiscount_tblc" Margin="5,0"/>
+            </StackPanel>
+
+            <TextBlock Text="{Binding TovarUnit, StringFormat={}Единица измерения: {0}}"/>
+            <TextBlock Text="{Binding TovarStorageAmount, StringFormat={}Количество на складе: {0}}" Foreground="{Binding StorageAmountColor}" />
+        </StackPanel>
+           
+        <TextBlock Text="{Binding TovarCurrentDiscount, StringFormat={}Текущая скидка: {0}%}" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+   
+    </Grid>
+    </Border>
+
+</UserControl>
